@@ -1,0 +1,41 @@
+body{
+  width: 1000px;
+}
+h1{
+  text-align: center;
+}
+a{
+  color: red;
+}
+table{
+border-radius: 10%;
+border: 1px solid black;
+}
+ tr, td {
+  border: 1px solid;
+  width: 150px;
+  height: 60px;
+
+}
+img{
+  width: 150px;
+}
+td{
+  border-color: green;
+}
+tr{
+  border-style: dotted;
+}
+p{
+  margin: 10px;
+}
+.new{
+  border: 10px;
+}
+.font{
+  font-size: 20px;
+  font-weight: bold;
+}
+.see{
+  visibility: hidden;
+}
